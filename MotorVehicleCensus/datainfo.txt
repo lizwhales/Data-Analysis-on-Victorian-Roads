@@ -1,0 +1,6 @@
+Data sourced from ABS (abs.gov.au)
+For detailed information see .xls file
+By year data by vehicle category is wrangled by hand for simplicity due to difficulty of handling excel worksheets.
+
+Sincerely,
+Harold 17/5 
