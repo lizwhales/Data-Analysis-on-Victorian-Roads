@@ -31,3 +31,7 @@ files for each time it is run. For each year's data, it will be concatenated int
 4. After this is run for all the years 2014-2020, the final code can be run, "TotalandPeak_Volume_OverYears.ipynb". This will take all the filtered data that was just created  
 and once again merge them all into one csv, one ontop of the other. This final csv file will be called "traffic_all_years.csv". This code file will also create the relevant  
 diagrams "Daily_volume.png", "Morning_Peak_Hour.png", "Evening_Peak_Hour.png".
+
+Code Running Description for Correlation_Growth (1).ipynb (in folder Growth_By_LGA):
+Dataset link: https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/
+Due to making wrangling easier, download Victorian_Population.csv which is the sliced csv from the original XML file that was then 
