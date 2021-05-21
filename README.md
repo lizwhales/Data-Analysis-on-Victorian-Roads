@@ -1,4 +1,7 @@
 # COMP20008-Project2
-Hi everyone
-This is our workspace for project 2  
-Have fun, and most importantly, do your work!
+Project 2 for COMP20008 - Element Of Data Processing
+Collaborative work of:
+Harold Fangyuan Liu - 1166132
+Andy Ng - 
+Desmond Wong - 1082634
+Elizabeth Wong - 
