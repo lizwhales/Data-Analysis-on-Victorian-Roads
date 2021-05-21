@@ -11,6 +11,8 @@ Harold Fangyuan Liu - 1166132
 Andy Ng -  1170648  
 Desmond Wong - 1166527  
 Elizabeth Wong - 1082634   
+  
+DO NOT ATTEMPT TO RUN THE CODE WITH OUT ALL DATA DOWNLOADED  
 
 Code Running Description for Traffic Volume Data (in the folder General_Population_Traffic_Volume):  
 Dataset link: https://discover.data.vic.gov.au/dataset/traffic-signal-volume-data  
